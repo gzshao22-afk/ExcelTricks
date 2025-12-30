@@ -7,5 +7,6 @@
 creates a list 
 
 ## Xlookup
-![Uploading image.png…]()
+<img width="661" height="455" alt="image" src="https://github.com/user-attachments/assets/5ad853db-2882-49e6-8e99-4c59a3f29a89" />
+
 
